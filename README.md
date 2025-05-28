@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/user-attachments/assets/8d12de30-373b-4c1b-8e8a-1c15d80925c6)
 
 ### Links
 
@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/manjirigole
